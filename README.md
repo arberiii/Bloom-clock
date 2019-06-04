@@ -1,5 +1,10 @@
 # Bloom clock
-Proof of concept of bloom clocks
+
+First get the necessary packages 
+
+go get -d ./... 
+
+or one by one
 
 go get github.com/gorilla/mux
 
