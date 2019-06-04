@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./main start 10001 neigh 10002 10003 10004 10005 &
+./main start 10002 neigh 10001 10003 10004 10005 &
+./main start 10003 neigh 10001 10002 10004 10005 &
+./main start 10004 neigh 10001 10002 10003 10005 &
+./main start 10005 neigh 10001 10002 10003 10004
