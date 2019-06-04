@@ -1,5 +1,5 @@
 # Bloom clock
-Sample code for https://arxiv.org/abs/1905.13064
+Proof of Concept (Sample code) for https://arxiv.org/abs/1905.13064
 
 ## Running
 First get the necessary packages 
