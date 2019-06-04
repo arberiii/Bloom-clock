@@ -1,5 +1,7 @@
 # Bloom clock
+Sample code for https://arxiv.org/abs/1905.13064
 
+## Running
 First get the necessary packages 
 
 go get -d ./... 
