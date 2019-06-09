@@ -59,8 +59,6 @@ And then to kill the process:
 
 
 # Testing
-It is assumed that script run_auto.sh is up and running.
-
-Run tests: 
+(It is assumed that script run_auto.sh is up and running) Run tests: 
 
 godog
