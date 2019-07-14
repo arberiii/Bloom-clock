@@ -1,5 +1,5 @@
 # Bloom clock
-Implementation of Proof of Concept based on https://arxiv.org/abs/1905.13064
+Implementation of Bloom Clock based on https://arxiv.org/abs/1905.13064
 
 ## Running
 First get the necessary packages 
